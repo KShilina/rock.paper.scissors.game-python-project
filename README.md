@@ -30,6 +30,6 @@ Requirements and steps:
 - Import Random Library
 
   ##Demo of the app
-  !["Entity Relationship Diagram"](interface.png)
+  !["Entity Relationship Diagram"](github/interface.png)
   
-  !["Entity Relationship Diagram"](output.png)
+  !["Entity Relationship Diagram"](github/output.png)
