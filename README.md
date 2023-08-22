@@ -29,7 +29,7 @@ Requirements and steps:
 - Import Tkinter Library
 - Import Random Library
 
-  ##Demo of the app
+  ## Demo of the app
   !["Entity Relationship Diagram"](github/interface.png)
   
   !["Entity Relationship Diagram"](github/output.png)
