@@ -25,6 +25,11 @@ Requirements and steps:
 - Download Anaconda from here: https://www.anaconda.com/
 - Install on your computer as a desktop app
 - Open Anaconda Navigator
-- Install Spyder (which is an easy to use IDE)
+- Install Spyder (which is an easy-to-use IDE)
 - Import Tkinter Library
 - Import Random Library
+
+  ##Demo of the app
+  !["Entity Relationship Diagram"](interface.png)
+  
+  !["Entity Relationship Diagram"](output.png)
